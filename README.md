@@ -6,3 +6,6 @@ RoarRugby can be used as a DSS for team making in Rugby. for this application we
 
 ## For this project we used following stack, <br>
 FrontEnd - ReactNative <br>
+Backend  - Python <br>
+API      - Flask
+
